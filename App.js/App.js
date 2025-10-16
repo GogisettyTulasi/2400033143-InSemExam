@@ -1,4 +1,4 @@
 function gitmerging()
 {
-    console.log("From Alice");
+    console.log("From Bob");
 }
